@@ -16,7 +16,7 @@ Common error message for this problem:" click here to download pictures to help 
 
 This example works for Microsoft 365 / Exchange Server
 
-First off all, download this powershell code (if you don't trust, only edit the file and read the code):
+First off all, download this powershell code (if you don't trust, only edit the file and read the code, it's not complex):
 https://drive.google.com/file/d/1piGxZpCEHIY4ZVEuTEH8XUFQK8_snU2d/view?usp=sharing
 
 
